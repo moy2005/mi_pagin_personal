@@ -42,10 +42,4 @@ button{
 .result{
     color: #f8eeb5;
 }
-
-@media(max-width:500px){
-    .botonera{
-        display:flex;
-        flex-direction: column;
-    }
 }
